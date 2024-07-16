@@ -8,7 +8,7 @@ The goal of the project is to create a Mondrian style composition using CSS Grid
 
 ### View My Project: 
 
-![Screenshot]()
+![Screenshot](img/mondrian_project.jpg)
 
 ## Features
 
